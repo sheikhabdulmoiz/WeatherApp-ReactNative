@@ -7,10 +7,12 @@
 
 ## Screenshots
 
-<img src="2.png" width="200" alt="Screenshot 1" />
-<img src="3.png" width="200" alt="Screenshot 2" />
-<img src="4.png" width="200" alt="Screenshot 3" />
-<img src="5.png" width="200" alt="Screenshot 4" />
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="2.png" width="200" alt="Screenshot 1" />
+  <img src="3.png" width="200" alt="Screenshot 2" />
+  <img src="4.png" width="200" alt="Screenshot 3" />
+  <img src="5.png" width="200" alt="Screenshot 4" />
+</div>
 
 ## Technologies Used
 
