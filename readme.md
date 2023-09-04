@@ -1,4 +1,3 @@
-
 ## Usage
 
 - Launch the app.
@@ -8,10 +7,10 @@
 
 ## Screenshots
 
-![Image :1](2.png)
-![Image :3](3.png)
-![Image :4](4.png)
-![Image :5](5.png)
+<img src="2.png" width="200" alt="Screenshot 1" />
+<img src="3.png" width="200" alt="Screenshot 2" />
+<img src="4.png" width="200" alt="Screenshot 3" />
+<img src="5.png" width="200" alt="Screenshot 4" />
 
 ## Technologies Used
 
@@ -20,5 +19,3 @@
 - Linear Gradient
 - Expo Location
 - OpenWeatherMap API
-
-
