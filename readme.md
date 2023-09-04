@@ -8,8 +8,10 @@
 
 ## Screenshots
 
-![Image :1](assets/icon.png)
-![Image :2](assets/favicon.png)
+![Image :1](2.png)
+![Image :3](3.png)
+![Image :4](4.png)
+![Image :5](5.png)
 
 ## Technologies Used
 
@@ -19,6 +21,4 @@
 - Expo Location
 - OpenWeatherMap API
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
